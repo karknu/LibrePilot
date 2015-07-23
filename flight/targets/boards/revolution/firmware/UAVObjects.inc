@@ -98,6 +98,7 @@ UAVOBJSRCFILENAMES += stabilizationsettingsbank3
 UAVOBJSRCFILENAMES += stabilizationstatus
 UAVOBJSRCFILENAMES += stabilizationbank
 UAVOBJSRCFILENAMES += systemalarms
+UAVOBJSRCFILENAMES += systemident
 UAVOBJSRCFILENAMES += systemsettings
 UAVOBJSRCFILENAMES += systemstats
 UAVOBJSRCFILENAMES += taskinfo
